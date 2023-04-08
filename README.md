@@ -95,28 +95,6 @@ Timetable
       <td colspan="3" align="center" height="50">SEMINAR</td>
       <td align="center" height="50">Sports</td>
       </tr>
-    
-
-      
-
-      
-      
-
-      
-
-
-
-
-      </table>
-      
-      
-      
-
-
-
-
-       
-
-      
+     </table>     
     </body>
   </html>
