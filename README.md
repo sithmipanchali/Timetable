@@ -96,5 +96,5 @@ Timetable
       <td align="center" height="50">Sports</td>
       </tr>
      </table>     
-    </body>
+  </body>
   </html>
