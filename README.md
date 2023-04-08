@@ -48,8 +48,7 @@ Timetable
       
       <tr>
       <td align="center" height="50">
-      <b> Tuesday</b>
-      </td>
+        <b> Tuesday</b></td>
       <td colspan="3" align="center" height="50">LAB</td>
       <td align="center" height="50">Eng</td>
       <td align="center" height="50">Che</td>
@@ -58,8 +57,7 @@ Timetable
       </tr>
       <tr>
       <td align="center"height="50">
-      <b> Wendsday</b>
-      </td>
+        <b> Wendsday</b></td>
       <td align="center" height="50">Mat</td>
       <td align="center" height="50">Phy</td>
       <td align="center" height="50">Eng</td>
@@ -68,8 +66,7 @@ Timetable
       </tr>
       <tr>
       <td align="center" height="50">
-      <b> Thursday</b>
-      </td>
+      <b> Thursday</b></td>
       <td align="center" height="50">Phy</td>
       <td align="center" height="50">Eng</td>
       <td align="center" height="50">Che</td>
@@ -78,8 +75,7 @@ Timetable
       </tr>
       <tr>
       <td align="center" height="50">
-      <b> Friday</b>
-      </td>
+      <b> Friday</b></td>
       <td colspan="3" align="center" height="50">LAB</td>
       <td align="center" height="50">Mat</td>
       <td align="center" height="50">Che</td>
@@ -88,7 +84,7 @@ Timetable
       </tr>
       <tr>
       <td align="center" height="50">
-      <b> Saturday</b>
+        <b> Saturday</b></td>
       <td align="center" height="50">Eng</td>
       <td align="center" height="50">Che</td>
       <td align="center" height="50">Mat</td>
